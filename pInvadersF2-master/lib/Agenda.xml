@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<agenda>
+<contacto>
+<nombre>Borja</nombre>
+<apellido>Molina</apellido>
+<direccion>Calle Santa Ana</direccion>
+<telefonos>
+<telcasa>961894142</telcasa>
+<telmovil>625749573</telmovil>
+<teltrabajo>654773247</teltrabajo>
+</telefonos>
+</contacto>
+</agenda>

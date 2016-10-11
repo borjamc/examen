@@ -18,8 +18,6 @@ return $this->columnas;
 
 }
 
-//Random?
-
 public function randomPos(){
 }
 
